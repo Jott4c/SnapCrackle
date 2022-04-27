@@ -1,0 +1,12 @@
+result = [];
+result = ['Snap'];i = 1
+result = ['Snap, 2'];i = 2
+result = ['Snap, 2, Snap'];i = 3
+result = ['Snap, 2, Snap, 4'];i = 4
+result = ['Snap, 2, Snap, 4, SnapCrackle'];i = 5
+result = ['Snap, 2, Snap, 4, SnapCrackle, 6'];i = 6
+result = ['Snap, 2, Snap, 4, SnapCrackle, 6 , Snap '];i = 7
+result = ['Snap, 2, Snap, 4, SnapCrackle, 6 , Snap, 8 '];i = 8
+result = ['Snap, 2, Snap, 4, SnapCrackle, 6 , Snap, 8, Snap '];i = 9
+result = ['Snap, 2, Snap, 4, SnapCrackle, 6 , Snap, 8 , snap , Crackle '];i = 10
+;i = 11
